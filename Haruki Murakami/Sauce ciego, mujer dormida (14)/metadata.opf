@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">14</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">3ce82c09-4f18-4cf7-b777-b302e5796a99</dc:identifier>
+        <dc:title>Sauce ciego, mujer dormida</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Sauce ciego, mujer dormida está compuesto por veinticuatro relatos en los que el aclamado escritor japonés Haruki Murakami mezcla con calculada ambigüedad el sueño y la vigilia, introduce elementos fantásticos y oníricos, se sirve de referentes como el jazz o permite que los cuervos hablen, pero, sobre todo, crea personajes inolvidables, enfrentados al dolor o al amor, o melancólicos, vulnerables y necesitados de afecto. Murakami en estado puro.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.677565+00:00"/>
+        <meta name="calibre:title_sort" content="Sauce ciego, mujer dormida"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

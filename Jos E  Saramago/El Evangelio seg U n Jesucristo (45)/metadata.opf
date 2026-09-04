@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">45</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c2318f84-8363-41b0-b8ed-3cf0f9fefd88</dc:identifier>
+        <dc:title>El Evangelio según Jesucristo</dc:title>
+        <dc:creator opf:file-as="Saramago, José" opf:role="aut">José Saramago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En palabras del propio autor, El Evangelio según Jesucristo «es como una relectura de los evangelios, es como un viaje al origen de una religión». Narrada en tercera persona y centrada de modo particular en las etapas y zonas de la vida de Jesucristo acerca de las que procuran menos información los textos evangélicos, la presente novela ha sido acogida del modo más favorable por la crítica en virtud de su vigor y pujanza literaria.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">2361</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Histórico</dc:subject>
+        <dc:subject>Sátira</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:51.099250+00:00"/>
+        <meta name="calibre:title_sort" content="Evangelio según Jesucristo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

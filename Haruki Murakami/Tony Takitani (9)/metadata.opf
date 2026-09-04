@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">9</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b00bb97c-4b1c-411b-a2c3-d03dc6e37c2b</dc:identifier>
+        <dc:title>Tony Takitani</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1990-09-30T22:00:00+00:00</dc:date>
+        <dc:description>Tony Takitani es un joven que ha crecido aislado, entre las burlas de los compañeros y muy solo, pues su padre, trompetista de jazz, se ausenta a menudo para tocar en giras. Buen profesional, se dedica a ilustrar portadas para revistas de automóviles o anuncios. Hasta que de pronto conoce a una chica, empleada a tiempo parcial de una editorial, a la que le gustan especialmente los vestidos. Maravillosamente ilustrado por Ignasi Font, este relato del célebre escritor japonés nos habla de la soledad y la falta de afecto en la sociedad actual.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">52515</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:44.638564+00:00"/>
+        <meta name="calibre:title_sort" content="Tony Takitani"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

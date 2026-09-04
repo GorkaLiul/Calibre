@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">54</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b0e36b14-6ebd-41b6-883e-1adee874be1b</dc:identifier>
+        <dc:title>Crimen y castigo (trad. F. Otero)</dc:title>
+        <dc:creator opf:file-as="Dostoyevski, Fiódor" opf:role="aut">Fiódor Dostoyevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1865-12-31T23:50:39+00:00</dc:date>
+        <dc:description>&lt;p&gt;Partiendo de un original titulado Los borrachos concebido para tratar el tema del alcoholismo en la familia, Crimen y castigo —que aquí ofrecemos en una nueva traducción de Fernando Otero Macías— fue escrita por Dostoievski en una época de deudas y penurias muy particular: acababa de morir su hermano, tenía que ayudar a mantener a su viuda e hijos, estaba también escribiendo «El jugador», y se vio obligado a recurrir, ante la negativa de otros, al editor de la revista «El Mensajero Ruso», con quien estaba enemistado. Allí la publicó en 1866 y hoy es, incuestionablemente, su obra más conocida.&lt;/p&gt;&lt;p&gt;La relegación del alcoholismo a un segundo plano puso, sin embargo, en primera línea a Raskólnikov, uno de los mitos de la literatura del &lt;small&gt;XIX&lt;/small&gt;: un joven de veintitrés años, inteligente, cultivado y «extraordinariamente bien parecido», pero andrajoso, dejado, negligente con sus estudios y tristemente alojado en un cuartucho. Desde el principio acaricia el plan de robar y matar a una mezquina usurera, pensando que su despreciable moralidad y el buen servicio que podría dar a los bienes robados justifican el crimen. Una vez cometido, sin embargo, nada sale según lo previsto: el crimen se revela «escasamente monumental», el criminal oscila entre la arrogancia, el cansancio y el delirio, y tal vez no se salve de la investigación policial. ¿Tiene el joven «el talento de pronunciar en su medio una nueva palabra», como a veces pretende, o es «un piojo esteta, y nada más»? En el deambular de Raskólnikov por San Petersburgo, en sus idas y venidas, en sus vueltas y más vueltas, hay un extravío literal… aunque al final revele tener, como la propia novela, un rumbo, una recóndita meta.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">59077</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.044102+00:00"/>
+        <meta name="calibre:title_sort" content="Crimen y castigo (trad. F. Otero)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

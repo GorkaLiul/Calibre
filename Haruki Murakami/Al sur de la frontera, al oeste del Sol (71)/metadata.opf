@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">71</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">91d7ccdf-84c6-425d-95ff-08671e5cc55a</dc:identifier>
+        <dc:title>Al sur de la frontera, al oeste del Sol</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1991-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Hajime es un hombre moderadamente feliz, casado, padre de dos niñas y dueño de un club de jazz, cuando se reencuentra con Shimamoto, una vieja amiga de la infancia y la adolescencia de la que no había vuelto a tener noticias.&lt;/p&gt;&lt;p&gt;Ambos, hijos únicos, habían compartido aficiones y secretos en la escuela primaria, y ahora, varios años después, se sienten atraídos sin remedio. Hajime, obesionado, parece dispuesto a dejarlo todo por ella…&lt;/p&gt;&lt;p&gt;Con inquietante sutileza, Murakami nos cuenta una historia clásica de amores perdidos y recobrados, de la consumación de una promesa de plenitud, que destila la indefinible sensación de desajuste con el mundo que acucia al hombre contemporáneo.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">1932</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:55.260523+00:00"/>
+        <meta name="calibre:title_sort" content="Al sur de la frontera, al oeste del Sol"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

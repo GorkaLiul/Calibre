@@ -1,0 +1,27 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">19</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b772f5db-6ac8-4bb3-baf4-b8204c46da56</dc:identifier>
+        <dc:title>El proceso</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1925-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Una mañana cualquiera, Josef K., joven empleado de un banco, se despierta en la pensión donde reside con la extraña visita de unos hombres que le comunican que está detenido —aunque por el momento seguirá libre—. Le informan de que se ha iniciado un proceso contra él, y le aseguran que conocerá los cargos a su debido tiempo. Así comienza una de las más memorables y enigmáticas pesadillas jamás escritas.&lt;/p&gt;
+
+    &lt;p&gt;Para el protagonista, el proceso laberíntico en el que inesperadamente se ve inmerso supone una toma de conciencia de sí mismo, un despertar que le obliga a reflexionar sobre su propia existencia, sobre la pérdida de la inocencia y la aparición de la muerte.&lt;/p&gt;
+
+    &lt;p&gt;La lectura de &lt;cite&gt;El proceso&lt;/cite&gt; produce cierto &lt;i&gt;horror vacui&lt;/i&gt; pues nos sumerge en una existencia absurda, en el filo de la navaja entre la vida y la nada.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.6</dc:identifier>
+        <dc:identifier opf:scheme="EPL">2867</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:46.483717+00:00"/>
+        <meta name="calibre:title_sort" content="proceso, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

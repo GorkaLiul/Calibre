@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">47</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9fd4c1da-75b8-4cfb-872f-c9bab2a13318</dc:identifier>
+        <dc:title>Ensayo sobre la ceguera</dc:title>
+        <dc:creator opf:file-as="Saramago, José" opf:role="aut">José Saramago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1995-01-02T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Un hombre parado ante un semáforo en rojo se queda ciego súbitamente. Es el primer caso de una «ceguera blanca» que se expande de manera fulminante. Internados en cuarentena o perdidos en la ciudad, los ciegos tendrán que enfrentarse con lo que existe de más primitivo en la naturaleza humana: la voluntad de sobrevivir a cualquier precio.&lt;/p&gt;
+
+    &lt;p&gt;&lt;cite&gt;Ensayo sobre la ceguera&lt;/cite&gt; es la ficción de un autor que nos alerta sobre «la responsabilidad de tener ojos cuando otros los perdieron». José Saramago traza en este libro una imagen aterradora y conmovedora de los tiempos que estamos viviendo. En un mundo así, ¿cabrá alguna esperanza?&lt;/p&gt;
+
+    &lt;p&gt;El lector conocerá una experiencia imaginativa única. En un punto donde se cruzan literatura y sabiduría, José Saramago nos obliga a parar, cerrar los ojos y ver. Recuperar la lucidez y rescatar el afecto son dos propuestas fundamentales de una novela que es, también, una reflexión sobre la ética del amor y la solidaridad.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">3e7793c8-5534-4be6-914e-0791ce28caaa</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:51.298895+00:00"/>
+        <meta name="calibre:title_sort" content="Ensayo sobre la ceguera"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

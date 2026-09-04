@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">56</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ace65687-4501-41fe-b22e-48279ced44b2</dc:identifier>
+        <dc:title>La ciudad y sus muros inciertos</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2023-04-12T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Poco se imagina el joven protagonista de esta novela que la chica de la que se ha enamorado está a punto de desaparecer de su vida. Se han conocido durante un concurso entre estudiantes de diferentes institutos, y no pueden verse muy a menudo. En sus encuentros, sentados bajo la glicinia de un parque o paseando a orillas de un río, la joven empieza a hablarle de una extraña ciudad amurallada, situada, al parecer, en otro mundo; poco a poco, ella acaba confesándole su inquietante sensación de que su verdadero yo se halla en esa misteriosa ciudad. De pronto, entrado el otoño, el protagonista recibe una carta de ella que quizá suponga una despedida, y eso lo sume en una profunda tristeza. Tendrán que pasar años antes de que pueda atisbar alguna posibilidad de reencontrarla.&lt;/p&gt;
+
+    &lt;p&gt;Y sin embargo, esa ciudad, tal y como ella la describió, existe. Porque todo es posible en este asombroso universo donde la realidad, la identidad, los sueños y las sombras fluctúan y escapan a los rígidos límites de la lógica.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e368ba83-3f6a-43cd-a7d6-95f3c95fcc8b</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.267468+00:00"/>
+        <meta name="calibre:title_sort" content="ciudad y sus muros inciertos, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

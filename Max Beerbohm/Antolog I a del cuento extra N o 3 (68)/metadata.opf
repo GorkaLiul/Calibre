@@ -1,0 +1,32 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">68</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27baaa14-4fa7-4d7a-87ff-82d363c07c94</dc:identifier>
+        <dc:title>Antología del cuento extraño 3</dc:title>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Max Beerbohm</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Richard Middleton</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">José Bianco</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Auguste Villiers de L’Isle-Adam</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Gérard de Nerval</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Juan Manuel Infante de Castilla</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Ricardo Palma</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">John Russell Fearn</dc:creator>
+        <dc:creator opf:file-as="Beerbohm, Max &amp; Middleton, Richard &amp; Bianco, José &amp; L’Isle-Adam, Auguste Villiers de &amp; Nerval, Gérard de &amp; Kafka, Franz &amp; Castilla, Juan Manuel Infante de &amp; Palma, Ricardo &amp; Fearn, John Russell &amp; Asturias, Miguel Ángel" opf:role="aut">Miguel Ángel Asturias</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1975-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Largos o breves, estos relatos tienen la característica común de describir insólitas experiencias o de situarse en un clima extraño en el que la realidad prosaica y cotidiana no halla cabida.Los relatos en este volumen son:El monstruo verde, de Gerard de NervalEnoch Soames, de Max BeerbohmEl alacrán de Fray Gómez, de Ricardo PalmaEn el camino de Brighton, de Richard MiddletonSombras suele vestir, de José BiancoVenado de las Siete-rozas, de Miguel Ángel AsturiasEl secreto del cadalso, de Auguste Villiers de l'Isle-AdamManuscrito antiguo, de Franz KafkaEl Deán de Santiago y el Gran Maestre de Toledo, de Juan Manuel Infante de CastillaEl precio de la cabeza, de John Russell Feam</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Relato</dc:subject>
+        <meta name="calibre:series" content="Antología del cuento extraño"/>
+        <meta name="calibre:series_index" content="3"/>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:54.925953+00:00"/>
+        <meta name="calibre:title_sort" content="Antología del cuento extraño 3"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

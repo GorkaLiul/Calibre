@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">60</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fed2dc9e-2280-4c51-8119-593cb9935993</dc:identifier>
+        <dc:title>Cadáver exquisito</dc:title>
+        <dc:creator opf:file-as="Agustina María Bazterrica" opf:role="aut">Agustina María Bazterrica</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2016-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La súbita aparición de un virus letal que ataca a los animales modifica de manera irreversible el mundo: desde las fieras hasta las mascotas deben ser sistemáticamente sacrificadas, y su carne ya no puede ser consumida. Los gobiernos enfrentan la situación con una decisión drástica: legalizando la cría, reproducción, matanza y procesamiento de carne humana. El canibalismo es ley y la sociedad ha quedado dividida en dos grupos: los que comen y los que son comidos.Marcos Tejo, encargado general del frigorífico Krieg, separado de su esposa y a cargo de su padre, es un oscuro burócrata. El día en que recibe como regalo una mujer criada para el consumo, las tentaciones lo transforman en una conciencia peligrosa de pliegues truculentos que lo llevará a transgredir las nuevas normas hasta límites que la sociedad desconoce.¿Qué resto de humanidad cabe cuando los muertos son cremados para evitar su consumo? ¿Quién es el otro si, de verdad, somos lo que comemos? En esta despiadada distopía —tan brutal como sutil, tan alegórica como realista—, Agustina Bazterrica inspira, con el poder explosivo de la ficción, sensaciones y debates de suma actualidad.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Distopía</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.905574+00:00"/>
+        <meta name="calibre:title_sort" content="Cadáver exquisito"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

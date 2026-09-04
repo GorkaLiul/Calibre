@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">10</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31ce94a1-4be8-488d-bbf8-86474e126128</dc:identifier>
+        <dc:title>Soy vertical. Pero preferiría ser horizontal</dc:title>
+        <dc:creator opf:file-as="Plath, Sylvia" opf:role="aut">Sylvia Plath</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1959-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La poesía de Sylvia Plath está llena de imágenes e intensidad y esta es precisamente su principal cualidad. En el poema que lleva por titulo el libro, Sylvia habla acerca de su próximo suicidio y de cómo entonces, cuando sea horizontal, los árboles podrán tocarla, porque al fin estará bajo tierra. La presente selección quiere dar a conocer al lector de habla castellana poemas no traducidos previamente o que no estaban al alcance del gran público de una de las voces clave de la poesía del siglo XX.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:44.999427+00:00"/>
+        <meta name="calibre:title_sort" content="Soy vertical. Pero preferiría ser horizontal"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

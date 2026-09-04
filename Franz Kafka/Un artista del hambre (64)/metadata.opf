@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">64</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">be296fa3-91f2-40f9-96bd-49263acb7bda</dc:identifier>
+        <dc:title>Un artista del hambre</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1923-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En «Un artista del hambre», historia de la vida y muerte de un ayunador de profesión, la muerte en vida toma forma. Sin antítesis ni preámbulos de advenimientos, simplemente, la sensación de vivir es igual de comprensible como morir. Según dicen, éste fue uno de los pocos textos que Kafka no ordenó quemar y en una carta a Milena Jesenká definió a su personaje como: «Un hombre condenado a mirar al mundo con una claridad tan enceguecedora que éste le resultó insoportable y se encaminó hacia la muerte». Igual que «La metamorfosis», «Un artista del hambre» presenta el aislamiento de un personaje de la sociedad y, a los demás hombres, como crueles objetos detrás del favor amablemente hipócrita de cada día: «Y alzaba la vista para mirar los ojos de las señoritas, en apariencia tan amables, en realidad tan crueles…». El mundo exterior de Kafka, es el espectador que satisface su malestar sólo con el hecho de ver a un hombre-bestia. A un hombre cuyo delicado tormento es la mueca para que el público, debido a su esnobismo o no, padezca con el personaje de ficción, en algún momento alter ego de Kafka, «es como una persona desnuda en medio de la gente vestida».</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:54.315385+00:00"/>
+        <meta name="calibre:title_sort" content="artista del hambre, Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

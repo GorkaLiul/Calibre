@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">38</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">4491ea90-07c1-421d-bf98-3f10eaa53d48</dc:identifier>
+        <dc:title>El idiota</dc:title>
+        <dc:creator opf:file-as="Dostoyevski, Fiódor" opf:role="aut">Fiódor Dostoyevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1868-12-31T23:50:39+00:00</dc:date>
+        <dc:description>&lt;p&gt;«Necesito tratar con buenas personas», dice el joven príncipe Lev Nikoláievich Myshkin al llegar a San Petersburgo, después de pasar cuatro años en un sanatorio suizo tratándose el «mal caduco». Apenas tiene dinero y su única esperanza es una pariente muy remota, Lizaveta Profófievna Yepanchiná, casada con un general retirado y madre de tres hijas. El mismo día de su llegada es un cúmulo de incidencias: desde la acogida —mezcla de curiosidad y suspicacia— que le dispensa su lejana familia hasta una noche de escándalo y humillaciones en casa de una bella mujer de mala reputación, Nastasia Filíppovna, cercada por varios pretendientes. Se encuentra de pronto, en fin, arrojado al acontecer, en medio de «una gente extremadamente rara», como un eremita obligado a socializar. Con su candidez e inconsciente indiscreción, a lo largo de la novela no dejarán de llamarlo «idiota», pero también «artista», «enfermo», «loco», «niño»; y algunos creen que es un tipo astuto que esconde algún as bajo la manga. Él es incapaz de comprender la mentira, el desdén, la bajeza, la «extraña e incesante necesidad de ser y sentirse permanentemente agraviado», el «estado febril» en que él mismo se sumerge a veces. «Estoy de más en la sociedad», llega a pensar, pero la compasión y un impulso de ser de algún modo útil le impiden abandonar, con dramáticas consecuencias. Escrita después de &lt;i&gt;Crimen y castigo&lt;/i&gt; y antes de &lt;i&gt;Los demonios&lt;/i&gt;, de nuevo en un largo período de penurias, &lt;i&gt;El idiota&lt;/i&gt; &lt;span class="nosep"&gt;(1868-1869),&lt;/span&gt; que aquí presentamos en una nueva traducción de Fernando Otero Macías, inicia el ciclo final de obras maestras de Dostoievski. Como ellas, ha propiciado múltiples lecturas, pero sigue siendo la más enigmática e imprevisible de todas.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.3</dc:identifier>
+        <dc:identifier opf:scheme="EPL">6044</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.184364+00:00"/>
+        <meta name="calibre:title_sort" content="idiota, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

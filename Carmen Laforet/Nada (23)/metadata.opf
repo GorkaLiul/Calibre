@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">23</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">afce7c2e-7720-4495-b212-caa58d252386</dc:identifier>
+        <dc:title>Nada</dc:title>
+        <dc:creator opf:file-as="Laforet, Carmen" opf:role="aut">Carmen Laforet</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1944-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Andrea, recién terminada la Guerra Civil Española, se traslada a la ciudad de Barcelona para estudiar y empezar una nueva vida. Cuando Andrea llega a casa de su abuela, de donde sólo tiene recuerdos de su infancia, sus ilusiones se ven rotas. En este piso de la calle de Aribau, donde aparte de su abuela viven su tía Angustias, su tío Román, su tío Juan, la mujer de este último, Gloria, y la criada, la tensión se continúa en un ambiente caracterizado por el hambre, la suciedad, la violencia y el odio. Andrea, que vive oprimida por su tía Angustias, siente que su vida va a cambiar cuando su tía se marcha.La novela llega a crear una atmósfera tan asfixiante que consigue traspasar el papel y llegar al lector. Carmen Laforet se adelanta a su tiempo con una prosa intimista y fotográfica, en la que se describe perfectamente la Barcelona de la época. La autora utiliza para ello recursos propios del impresionismo. Como muestra de estos recursos impresionistas, en Nada predomina la descripción. La protagonista se fija en todo aquello que le rodea a su llegada a Barcelona; transmite una visión totalmente subjetiva, ya que no describe los objetos tal y como son, sino que lo hace como ella los percibe, aportándonos sus sensaciones y emociones.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">08d4974c-fef9-4c4e-9aab-35280e23ac56</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Otros</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:47.944972+00:00"/>
+        <meta name="calibre:title_sort" content="Nada"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

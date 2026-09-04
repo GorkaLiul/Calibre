@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">32</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e687db6f-0e52-475d-af4d-8b3ea396d743</dc:identifier>
+        <dc:title>Kokoro (trad. Yoko Ogihara)</dc:title>
+        <dc:creator opf:file-as="Natsume, Sōseki" opf:role="aut">Sōseki Natsume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1913-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Coincidiendo con el centenario de su aparición, publicamos una nueva traducción de la obra maestra de Sōseki, que prefiguraría la de autores de la importancia de Akutagawa, Kawabata o Murakami. «Kokoro» («corazón», en japonés) narra la historia de una amistad sutil y conmovedora entre dos personajes sin nombre, un joven y un enigmático anciano al que conocemos como «Sensei». Atormentado por trágicos secretos que han proyectado una larga sombra sobre su vida, Sensei se abre lentamente a su joven discípulo, confesando indiscreciones de sus días de estudiante que han dejado en él un rastro de culpa, y que revelan, en el abismo aparentemente insalvable de su angustia moral y su lucha por entender los misterios del amor y el destino, el profundo cambio cultural de una generación a la siguiente que caracterizó el Japón de principios del siglo XX.Ninguna biblioteca de literatura japonesa estaría completa sin «Kokoro», la novela más lograda de Natsume Sōseki, la más profunda y la última que completó antes de su muerte.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.474692+00:00"/>
+        <meta name="calibre:title_sort" content="Kokoro (trad. Yoko Ogihara)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">70</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3d50cc5-ba66-471c-9c60-b725669b9e90</dc:identifier>
+        <dc:title>El alquimista</dc:title>
+        <dc:creator opf:file-as="Coelho, Paulo" opf:role="aut">Paulo Coelho</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1988-01-02T00:00:00+00:00</dc:date>
+        <dc:description>Este libro relata la historia de un joven pastor andaluz que un día dejó su rebaño de ovejas para emprender un viaje en el que aprendió a escuchar a su corazón y descifrar un lenguaje que está más allá de las palabras. Nos recuerda la incapacidad que las personas tienen para escoger su propio destino. Nos habla de la leyenda personal que cada persona tiene. Vivir la leyenda personal es la razón de vivir. Y cuando quieres algo, todo el Universo conspira para que realices tu deseo, tu sueño. El jóven pastor viaja en busca de su tesoro escondido siguiendo las señales. Dios escribió en el mundo el camino que cada hombre debe seguir. Sólo hay que leer lo que Él escribió para cada uno de nosotros. El Alquimista es comparado con otros libros conocidos como El Principito o Juan Salvador Gaviota. Con este viaje por las arenas del desierto, Paulo Coelho crea un símbolo hermoso y revelador de la vida, el hombre y sus sueños.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">89de2e57-81c3-482f-af2b-50cd19a3efb0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Didáctico</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:55.175983+00:00"/>
+        <meta name="calibre:title_sort" content="alquimista, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

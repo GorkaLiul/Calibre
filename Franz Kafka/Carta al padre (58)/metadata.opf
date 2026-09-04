@@ -1,0 +1,25 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">58</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">697db2a6-230d-4988-be5d-d7538bcdeded</dc:identifier>
+        <dc:title>Carta al padre</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-12-31T23:00:00+00:00</dc:date>
+        <dc:description>He aquí el inicio de una carta que constituye la piedra de toque y la clave de la concepción del mundo más angustiosa y atrayente del presente siglo: «Hace poco me preguntaste por qué digo que te tengo miedo. Como de costumbre, no supe darte una respuesta, en parte precisamente por el miedo que te tengo, en parte porque para explicar los motivos de ese miedo necesito muchos pormenores que no puedo tener medianamente presentes cuando hablo. Y si intento aquí responderte por escrito, sólo será de un modo muy imperfecto, porque el miedo y sus secuelas me disminuyen frente a ti, incluso escribiendo, y porque la amplitud de la materia supera mi memoria y mi capacidad de raciocinio».</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">5370</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.727709+00:00"/>
+        <meta name="calibre:title_sort" content="Carta al padre"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

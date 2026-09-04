@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">53</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">9e076a7f-efe3-42fd-8a0c-8eeeb928c5bb</dc:identifier>
+        <dc:title>Crónica del pájaro que da cuerda al mundo</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1993-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tooru Okada, un joven japonés que acaba de dejar voluntariamente su trabajo en un bufete de abogados, recibe un buen día la llamada anónima de una mujer.&lt;/p&gt;&lt;p&gt;A partir de ese momento la vida de Tooru, que había transcurrido por los cauces de la más absoluta normalidad, empieza a sufrir una extraña transformación.&lt;/p&gt;&lt;p&gt;A su alrededor van apareciendo personajes cada vez más extraños, y la realidad, o lo real, va degradándose hasta convertirse en algo fantasmagórico. La percepción del mundo se vuelve mágica, los sueños son realidad y, poco a poco, Tooru Okada deberá resolver los conflictos que, sin sospecharlo siquiera, ha arrastrado a lo largo de toda su vida.&lt;/p&gt;&lt;p&gt;&lt;cite&gt;Crónica del pájaro que da cuerda al mundo&lt;/cite&gt; pinta una galería de personajes tan sorprendentes como profundamente reales. El mundo cotidiano del Japón moderno se nos aparece de pronto como algo extrañamente familiar.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">1948</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:52.891624+00:00"/>
+        <meta name="calibre:title_sort" content="Crónica del pájaro que da cuerda al mundo"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

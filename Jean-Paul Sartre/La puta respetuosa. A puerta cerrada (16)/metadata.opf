@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">16</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">153205a3-d35c-4fd0-b577-e4b610f3e8ac</dc:identifier>
+        <dc:title>La puta respetuosa. A puerta cerrada</dc:title>
+        <dc:creator opf:file-as="Sartre, Jean-Paul" opf:role="aut">Jean-Paul Sartre</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1945-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Sartre sitúa «La puta respetuosa» en una ciudad americana del Sur y en ella un triángulo fatídico condenado a entenderse: La puta respetuosa (el pueblo llano), el político (los gobernantes) y el negro (el chivo expiatorio). No se limita a narrar una historia de racismo, sino que va más allá: La historia de cómo una sociedad se constituye y se relaciona entre sí, la ausencia de ética, el asomo de algún remordimiento, de algún acto bueno, pero la sombra alargada de que el hombre es el lobo del hombre siempre está ahí. Se representó por primera vez el 8 de noviembre de 1946. «A puerta cerrada» es una obra de teatro existencialista creada por el filósofo Jean-Paul Sartre en 1944, originalmente publicada en francés bajo el título «Huis clos» y fue puesta en escena por primera vez en el Vieux-Colombier en mayo de 1944, justo antes de la liberación de París durante la Segunda Guerra Mundial. La obra sólo presenta cuatro personajes (uno de los cuales, el Mayordomo, aparece por muy poco tiempo) y un solo escenario. «A puerta cerrada» es la fuente de la, quizás, más famosa frase de Sartre, «El infierno son los otros» («L’enfer, c’est les autres»). Ha sido adaptada al cine. La obra se inicia con el Mayordomo conduciendo a un hombre llamado Garcín hacia un cuarto, que la audiencia pronto identifica como el infierno (el infierno puede ser un hotel gigantesco, debido a los «cuartos y pasillos» mencionados en la obra). El cuarto no tiene espejos ni ventanas y sólo cuenta con una puerta, tres sillones, una estatua de bronce y un abrecartas. Finalmente, una mujer, Inés, entra a la habitación de Garcín, y posteriormente otra, Estelle. Después de que ambas ingresen, el Mayordomo sale y la puerta es cerrada con llave. Todos esperan ser torturados, pero no aparece torturador alguno. En lugar de ello, ellos descubren que están ahí para torturarse entre ellos, lo cual parecen estar logrando. Al principio, los tres observan eventos que les conciernen, sucediendo en la Tierra, pero finalmente (conforme su conexión con la Tierra se desvanece y los vivos prosiguen) son abandonados con sus propios pensamientos y la compañía de los otros dos. Al final de la obra, Garcín exige salir; tras decirlo, la puerta se abre, pero ninguno decide salir, ya que se dan cuenta de que no pueden vivir los unos sin los otros.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Teatro</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.865169+00:00"/>
+        <meta name="calibre:title_sort" content="puta respetuosa. A puerta cerrada, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

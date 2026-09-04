@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">61</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e887a735-7de7-43d2-991e-2c46748df63c</dc:identifier>
+        <dc:title>Bonsái</dc:title>
+        <dc:creator opf:file-as="Zambra, Alejandro" opf:role="aut">Alejandro Zambra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2005-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Condenado a la seriedad y a la impostura, Julio, el silencioso protagonista de este libro, acaba convenciéndose de que es mejor encerrarse en su cuarto a observar el crecimiento de un bonsái que vagar por los incómodos caminos de la literatura. Es ésta, como dice el narrador, «una historia liviana que se pone pesada», un relato elíptico y vertiginoso marcado por la inquietante desaparición de una mujer. Jorge Luis Borges aconsejaba escribir como si se estuviera redactando el resumen de una obra ya escrita. Y eso es, precisamente, lo que ha hecho Alejandro Zambra en este libro que —del mismo modo que un bonsái no es un árbol— más que una novela corta o un relato largo es una novela-resumen o, justamente, una novela-bonsái. Bonsái supone el brillante debut narrativo del joven chileno Alejandro Zambra, poeta y crítico literario.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:identifier opf:scheme="EPL">18748</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.998227+00:00"/>
+        <meta name="calibre:title_sort" content="Bonsái"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

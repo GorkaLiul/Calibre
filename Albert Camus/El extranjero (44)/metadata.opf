@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">44</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02d7f3d6-55fe-43df-84bd-fa116d81fd99</dc:identifier>
+        <dc:title>El extranjero</dc:title>
+        <dc:creator opf:file-as="Camus, Albert" opf:role="aut">Albert Camus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1941-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;La historia de un francés en Argelia, tal y como él mismo la va contando; desde el entierro de su madre un fin de semana, hasta los cinco tiros de revólver que descarga sobre un árabe; los consiguientes meses de prisión, el juicio y finalmente la condena. Todo dicho claramente y sin efectismos.&lt;/p&gt;&lt;p&gt;&lt;cite&gt;El Extranjero&lt;/cite&gt; es una novela de dos partes que Albert Camus publicó en 1942 para ilustrar sus nociones sobre «el absurdo», concepto que es, no la conclusión, sino el punto de partida de una filosofía que expuso ese mismo año con todo detalle mediante un conjunto de ensayos.&lt;/p&gt;&lt;p&gt;La primera parte nos interna en el universo del protagonista, que es un universo de perpetua comunión con el absurdo, un universo más allá del cual sólo se puede encontrar el hundimiento y la nada de la muerte.&lt;/p&gt;&lt;p&gt;La segunda parte, tan lacónica como la primera, aborda el fracaso de la exigencia absurda, que es una exigencia de verdad, dentro de un mundo profundamente alimentado de ilusiones tales como la libertad, la justicia y la eternidad.&lt;/p&gt;&lt;p&gt;La novela se convirtió rápidamente en un clásico absoluto del existencialismo, y ha sido traducida a más de cuarenta idiomas.&lt;/p&gt;&lt;p&gt;Albert Camus recibió el Premio Nobel de Literatura en 1957.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">72cfff1d-a757-4881-8611-02c8cd2fa099</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosófico</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:51.027310+00:00"/>
+        <meta name="calibre:title_sort" content="extranjero, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

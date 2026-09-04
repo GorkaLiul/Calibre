@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">37</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">78d29045-987a-4972-8971-0b66a9c712d7</dc:identifier>
+        <dc:title>Hombres sin mujeres</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2013-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En su obra más reciente, Haruki Murakami ofrece a los lectores siete relatos en torno al aislamiento y la soledad que preceden o siguen a la relación amorosa: hombres que han perdido a una mujer, o cuya relación ha estado marcada por el desencuentro, asisten inermes al regreso de los fantasmas del pasado, viven el enamoramiento como una enfermedad letal, son incapaces de establecer una comunicación plena con la pareja, o ven extrañamente interrumpida su historia de amor. Otros experimentan atormentados amores no correspondidos o, incluso, como en el relato protagonizado por una metamorfosis kafkiana, desconocen todavía los mecanismos del afecto y del sexo. Sin embargo, las verdaderas protagonistas de estos relatos —llenos de guiños a los Beatles, el jazz, Kafka, Las mil y una noches o, en el caso del título, Hemingway—, son ellas, las mujeres, que, misteriosas, irrumpen en la vida de los hombres para desaparecer, dejando una huella imborrable en la vida de aquellos que las han amado, o de los que, al menos, intentaron amarlas.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.4</dc:identifier>
+        <dc:identifier opf:scheme="EPL">21905</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.074642+00:00"/>
+        <meta name="calibre:title_sort" content="Hombres sin mujeres"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

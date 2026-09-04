@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">65</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">25797671-4399-4138-a0ec-361c5e7550a8</dc:identifier>
+        <dc:title>Asalto a las panaderías</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Una noche, muy tarde, acosada por un repentino ataque de hambre, una pareja que apenas ha empezado a convivir y casi no tiene comida en casa decide salir a buscar un restaurante abierto donde poder saciarse. El hombre confiesa a su compañera que ya ha sufrido otro episodio similar en el pasado, resuelto con el asalto a una panadería, donde él y un amigo de la época pudieron comer pan hasta hartarse a cambio de recibir una imprecisa maldición y escuchar sin ganas la música preferida del panadero, fanático de Wagner. Desaforada, la pareja cede a la presión del hambre y sale a la noche de Tokio armada con una vieja escopeta, buscando el olor a pan.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:identifier opf:scheme="EPL">64852</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:54.384225+00:00"/>
+        <meta name="calibre:title_sort" content="Asalto a las panaderías"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

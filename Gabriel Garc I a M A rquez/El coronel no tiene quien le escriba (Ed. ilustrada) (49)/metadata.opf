@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">49</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b7f09caf-bdee-45f0-8e99-5c7ee713bb90</dc:identifier>
+        <dc:title>El coronel no tiene quien le escriba (Ed. ilustrada)</dc:title>
+        <dc:creator opf:file-as="García Márquez, Gabriel" opf:role="aut">Gabriel García Márquez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-01-01T00:00:00+00:00</dc:date>
+        <dc:description>El coronel no tiene quien le escriba fue escrita por Gabriel García Márquez durante su estancia en París, donde había llegado, a mediados de los cincuenta, como corresponsal de prensa y con la secreta intención de estudiar cine. El cierre del periódico para el que trabajaba le sumió en la pobreza mientras redactaba en tres versiones distintas esta excepcional novela, que luego fue rechazada por varios editores antes de su publicación.Tras el barroquismo faulkneriano de La hojarasca, esta segunda novela supone un paso hacia la ascesis, hacia la economía expresiva, y el estilo del escritor se hace más puro y transparente. Se trata también de una historia de injusticia y violencia: un viejo coronel retirado va al puerto todos los viernes a esperar la llegada de la carta oficial que responda a la justa reclamación de sus derechos por los servicios prestados a la patria. Pero la patria permanece muda...En el 40.º aniversario de la concesión del Nobel de Literatura a Gabriel García Márquez, se publica esta edición, ilustrada por Luisa Rivera, de una de sus novelas más emblemáticas.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:51.746820+00:00"/>
+        <meta name="calibre:title_sort" content="El coronel no tiene quien le escriba (Ed. ilustrada)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

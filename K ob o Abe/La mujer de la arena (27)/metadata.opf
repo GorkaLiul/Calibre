@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">27</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">954a79f1-759f-4728-90eb-2da6585a06a5</dc:identifier>
+        <dc:title>La mujer de la arena</dc:title>
+        <dc:creator opf:file-as="Abe, Kôbô" opf:role="aut">Kōbō Abe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Un profesor de escuela se adentra en las dunas de arena de un alejado pueblo para satisfacer su afición a coleccionar insectos. Allí se encuentra con un pueblo cercado por la arena que poco a poco gana terreno a las escasas propiedades que aquellos pescadores tienen. Invitado por los lugareños a pasar la noche en una casa situada en una profunda sima de arena donde subsiste una mujer viuda; descubrirá, con horror, al día siguiente que la escala de cuerda que une aquella sima con la vida en el exterior ha desaparecido. La mujer acepta aquello como normal, como una ayuda para su trabajo de quitar aquella arena que se cierra poco a poco y que amenaza al pueblo, el profesor no entiende el absurdo de aquella situación. La mujer en la arena es una obra de un fluir imparable y poderoso, el de la arena que avanza metro a metro para absorber las cosas y los seres, envolviéndolos en un manto de olvido. Kôbô Abe plantea de forma intensa y precisa el conflicto del hombre enfrentado a sus propios límites, el sentido de una existencia encerrada en un universo dominado por la obsesiva presencia de la arena, el ritmo de su constante movimiento, su tacto y su sabor. Un mundo en el que no existe más realidad que la materia, que sólo se puede aprehender a través de una exacerbada sensualidad.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">41370</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Intriga</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:48.882335+00:00"/>
+        <meta name="calibre:title_sort" content="mujer de la arena, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

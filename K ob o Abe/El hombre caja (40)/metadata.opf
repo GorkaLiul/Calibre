@@ -1,0 +1,31 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">40</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f3ee53cc-828a-4750-8381-383b81208127</dc:identifier>
+        <dc:title>El hombre caja</dc:title>
+        <dc:creator opf:file-as="Abe, Kōbō" opf:role="aut">Kōbō Abe</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1973-03-29T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;«Ésta es la crónica de un hombre caja. Acabo de empezar a redactar esta crónica dentro de una caja de cartón que, puesta sobre la cabeza, me cubre medio cuerpo con holgura, justo hasta la cintura.&lt;/p&gt;
+
+    &lt;p&gt;Es decir, el hombre caja, de momento, soy yo; acomodado dentro de la caja, el hombre caja redacta la crónica sobre el hombre caja».&lt;/p&gt;
+
+    &lt;p class="salto10"&gt;¿Qué ve el hombre caja mientras deambula por la ciudad con la cabeza y el cuerpo cubiertos de cartón? ¿Qué ha pretendido al despojarse de todas sus pertenencias y señas de identidad? Una tras otra se suceden las imágenes deslumbrantes y las misteriosas escenas y, entre medias, la relación trastornada con el falso hombre caja y la pasión desesperada por la enfermera…&lt;/p&gt;
+
+    &lt;p&gt;El lector de &lt;i&gt;El hombre caja&lt;/i&gt; quedará atrapado en un laberinto fantasmagórico, creado por los sucesivos y sugerentes trucos de Kōbō Abe, el novelista más experimental de Japón.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">79712</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:series" content="Nuevos Tiempos"/>
+        <meta name="calibre:series_index" content="237"/>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.464999+00:00"/>
+        <meta name="calibre:title_sort" content="hombre caja, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

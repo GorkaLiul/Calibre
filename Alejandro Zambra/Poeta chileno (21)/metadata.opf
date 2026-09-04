@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">21</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2285a8d2-16e7-4af1-bf10-8c009cb774ab</dc:identifier>
+        <dc:title>Poeta chileno</dc:title>
+        <dc:creator opf:file-as="Zambra, Alejandro" opf:role="aut">Alejandro Zambra</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-02-29T23:00:00+00:00</dc:date>
+        <dc:description>Durante buena parte de esta novela Gonzalo es un poetastro que quiere ser poeta y un padrastro que se comporta como si fuera el padre biológico de Vicente, un niño adicto a la comida para gatos que años más tarde se niega a estudiar en la universidad porque su sueño principal es convertirse —también— en poeta, a pesar de los consejos de Carla, su orgullosamente solitaria madre, y de León, un padre mediocre dedicado a coleccionar autitos de juguete.
+El poderoso mito de la poesía chilena —un personaje secundario dice, aludiendo a los veredictos de la Academia Sueca, que los chilenos son bicampeones mundiales de poesía— es revisitado y cuestionado por Pru, una periodista gringa que se convierte en testigo accidental de ese esquivo e intenso mundo de héroes e impostores literarios.
+«La verdadera seriedad es cómica», decía Nicanor Parra, y esta novela sobre poetas que desprecian las novelas lo demuestra brillantemente.
+El laberinto masculino actual, los trágicos vaivenes del amor, las familias —o familiastras— fugaces, la omnipresente desconfianza en instituciones y autoridades, el deseo valiente y obcecado de pertenecer a una comunidad en parte imaginaria, el sentido de escribir y de leer en un mundo hostil que parece desmoronarse a toda velocidad… Son muchos los temas que este libro hermoso, contundente y desenfadado pone encima de la mesa.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.0</dc:identifier>
+        <dc:identifier opf:scheme="EPL">59057</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:46.786425+00:00"/>
+        <meta name="calibre:title_sort" content="Poeta chileno"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

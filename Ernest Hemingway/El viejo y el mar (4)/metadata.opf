@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">4</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">ea0c8e2e-d281-48b3-9661-7f25aaaef103</dc:identifier>
+        <dc:title>El viejo y el mar</dc:title>
+        <dc:creator opf:file-as="Hemingway, Ernest" opf:role="aut">Ernest Hemingway</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;cite&gt;El viejo y el mar&lt;/cite&gt; (&lt;cite&gt;The Old Man and the Sea&lt;/cite&gt;) es una novela escrita por Ernest Hemingway en 1951 en Cuba y publicada en 1952. Fue su último trabajo de ficción importante publicado en vida y posiblemente su obra más famosa.&lt;/p&gt;&lt;p&gt;&amp;nbsp;&lt;/p&gt;&lt;p&gt;Un viejo lobo de mar está pasando una racha de mala suerte: hace 84 días que no logra capturar un solo pez. Todos los habitantes del pueblo se burlan de él, excepto un niño, que le mira y ayuda. Ambos deciden que el día siguiente será bueno para la pesca del pez espada.&lt;/p&gt;&lt;p&gt;Todavía es de noche cuando se levanta, prepara los aparejos y se lanza a la mar con su pequeña barca. En alta mar, el viejo pone diversas carnadas. De pronto, la línea comienza a moverse. El viejo no puede controlarla. Se trata de un gigantesco pez espada.&lt;/p&gt;&lt;p&gt;Cuatro horas más tarde, el pez se sacude en la superficie del agua y arrastra la barca. El viejo lo sostiene con el sedal enrollado alrededor del cuerpo. No hay tierra a la vista. Ahora, mar adentro, el viejo sostiene en su línea al pez más grande que jamás había visto.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">61231ffc-1330-4d72-ab07-77fc7cfa9d63</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:43.565274+00:00"/>
+        <meta name="calibre:title_sort" content="viejo y el mar, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

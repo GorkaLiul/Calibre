@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">46</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">21409248-143a-451c-ae8c-df333b7d6d20</dc:identifier>
+        <dc:title>Ensayo sobre la lucidez</dc:title>
+        <dc:creator opf:file-as="Saramago, José" opf:role="aut">José Saramago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-03-31T22:00:00+00:00</dc:date>
+        <dc:description>Durante las elecciones municipales de una ciudad sin nombre, la mayoría de sus habitantes decide individualmente ejercer su derecho al voto de una manera inesperada. El gobierno teme que ese gesto revolucionario, capaz de socavar los cimientos de una democracia degenerada, sea producto de una conjura anarquista internacional o de grupos extremistas desconocidos. Las cloacas del poder se ponen en marcha: los culpables tienen que ser eliminados. Y si no se hallan, se inventan. Los protagonistas de esta nueva novela de Saramago, un inspector de policía y la mujer que conservó la vista en la epidemia de luz blanca de Ensayo sobre la ceguera, dan muestras de la altura moral que los ciudadanos anónimos pueden alcanzar cuando deciden ejercer la libertad. Saramago, un escritor que se ha convertido en la conciencia lúcida de una época cegada por los mecanismos del poder, lanza una llamada de alerta: «Puede suceder que un día tengamos que preguntarnos Quién ha firmado esto por mí». Ese día puede ser hoy.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:51.215861+00:00"/>
+        <meta name="calibre:title_sort" content="Ensayo sobre la lucidez"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

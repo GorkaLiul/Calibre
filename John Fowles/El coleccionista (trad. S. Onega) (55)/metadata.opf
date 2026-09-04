@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">55</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">05ec4681-4b0f-400f-83e9-6cc619223022</dc:identifier>
+        <dc:title>El coleccionista (trad. S. Onega)</dc:title>
+        <dc:creator opf:file-as="Fowles, John" opf:role="aut">John Fowles</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1962-12-31T23:00:00+00:00</dc:date>
+        <dc:description>John Fowles, escritor británico del siglo XX, escribe El coleccionista basándose en una noticia aparecida en prensa, enriquecida con numerosas reminiscencias literarias. Es una novela compuesta en forma de diario, pero con numerosos intertextos. Sus protagonistas son Miranda Grey, una brillante estudiante de arte procedente de una familia acomodada, y su secuestrador, Frederick Clegg, un oscuro contable aficionado a coleccionar mariposas.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">93177340-2499-430a-b3dd-8fb3208c40e7</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Intriga</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.179941+00:00"/>
+        <meta name="calibre:title_sort" content="coleccionista (trad. S. Onega), El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

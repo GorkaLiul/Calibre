@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">11</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">b87881a4-6800-450d-a7dc-5b50fc4d2740</dc:identifier>
+        <dc:title>Sputnik, mi amor</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-08-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;Una emotiva historia de amores cruzados, en un viaje que llevará a sus protagonistas a conocer realidades paralelas al mundo real.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Del mismo modo en que, en el viaje del satélite ruso Sputnik, la perra Laika giraba alrededor de la Tierra y dirigía su atónita mirada hacia el espacio infinito, en Tokio tres personajes se buscan desesperadamente intentando romper el eterno viaje circular de la soledad. El narrador, un joven profesor de primaria, está enamorado de Sumire; pero ella, quien se considera la última rebelde, tiene una única obsesión: ser novelista. Sumire conocerá a Myû, una mujer casada de mediana edad tan hermosa como enigmática, y juntas emprenderán un viaje por Europa tras el que nada volverá a ser igual.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">fecd865b-3fd0-43b9-961b-4668591c8d9e</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.106318+00:00"/>
+        <meta name="calibre:title_sort" content="Sputnik, mi amor"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

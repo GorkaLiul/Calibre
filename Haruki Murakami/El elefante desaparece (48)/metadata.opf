@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">48</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfe4a5e0-cab4-43be-bbd5-d9d4e91eb01b</dc:identifier>
+        <dc:title>El elefante desaparece</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1992-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Un hombre que se obsesiona con la insólita y misteriosa desaparición del elefante de un zoo, un abogado en paro que recibe el encargo de su mujer de encontrar a su gato, una pareja de recién casados que deciden atracar un MacDonald’s en plena noche, una curiosa digresión sobre los canguros, un enano diabólico que baila, un joven empeñado en burlarse de su futuro cuñado, un pirómano confeso… Los protagonistas de todos los relatos que componen este volumen esperan algo. Un accidente, un hecho azaroso. Al contrario que esta obra, donde nada, absolutamente nada, queda al azar. Alternando páginas inquietantes e hilarantes, El elefante desaparece es una prueba más de la capacidad de Murakami para cruzar la frontera entre lo cotidiano más realista y lo fantástico, transformando así la trivialidad de nuestras vidas.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Humor</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:51.406123+00:00"/>
+        <meta name="calibre:title_sort" content="elefante desaparece, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

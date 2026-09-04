@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">24</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c07352af-1325-4f5d-ab4d-7e5b5685191f</dc:identifier>
+        <dc:title>Música de cañerías</dc:title>
+        <dc:creator opf:file-as="Bukowski, Charles" opf:role="aut">Charles Bukowski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1982-12-31T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;«Música de cañerías»: la música catarral del agua caliente abriéndose paso por los radiadores de míseros hoteluchos de Los Ángeles: una buena banda sonora para las historias de Bukowski en este libro.&lt;/p&gt;&lt;p&gt;«Ernest Hemingway y Henry Miller están vivos y jodidos y viviendo en un cuartucho de alquiler en East Hollywood así podría uno pensar después de leer este libro. Sórdido, obsceno y violento, el Los Ángeles de Bukowski se parece más al París de Miller que al de Hemingway, pero nuestro guía a través de este submundo está más próximo al lacónico estoicismo de Hemingway que a las rapsodias apocalípticas de Miller. Vidas de tranquila desesperación explotan en actos de violencia aparentemente fortuitos e inmotivados. En cada relato aparecen impulsos homicidas nacidos de frustraciones para las que no hay cura posible» (&lt;i&gt;Los Angeles Times&lt;/i&gt;).&lt;/p&gt;&lt;p&gt;«Las historias de este libro tratan de precarios ganadores y notorios perdedores, vidas encalladas por tristes y sórdidas circunstancias, conducidas a la insania o a la muerte violenta: instantáneas de la selva de neón del darwinismo social americano &lt;i&gt;made in Los Angeles&lt;/i&gt;. Bukowski ha seguido siendo fiel a sí mismo y sus relatos conforman un explosivo informe sobre la jungla de la gran ciudad» (&lt;i&gt;Westdeutsche Allgemeine Zeitung&lt;/i&gt;).&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">18496</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:48.348277+00:00"/>
+        <meta name="calibre:title_sort" content="Música de cañerías"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

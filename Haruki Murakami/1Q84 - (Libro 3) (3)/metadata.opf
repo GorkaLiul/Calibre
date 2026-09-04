@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">3</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f7dbd4b1-1f1f-436d-9b6d-aef2e75713b9</dc:identifier>
+        <dc:title>1Q84 - (Libro 3)</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2010-12-15T00:00:00+00:00</dc:date>
+        <dc:description>A las voces de Aomame —la enigmática instructora de gimnasia y asesina— y de Tengo —el profesor de matemáticas y escritor—, se suma, en este tercer libro de la novela 1Q84, la de un nuevo personaje, un detective llamado Ushikawa. Su última misión, encargada por Vanguardia, el misterioso culto religioso, consistió en comprobar si Aomame era digna de confianza para trabajar para el líder. Ushikawa dío el visto bueno a la joven, pero ésta los traicionó a todos, cometió un nuevo asesinato y luego desapareció. Si el detective no logra encontrarla, la venganza de la secta se abatirá sobre él. Entretanto, Aomame y Tengo, cada uno a su modo, siguen deseándose en la ausencia, buscándose —en el más puro estilo de Murakami— casi sin moverse de su sitio, aislados, quizás a punto de experimentar un giro radical en sus vidas y esperando un reencuentro que los redima… en el mundo de 1984, o en el de 1Q84, ese fantasmagórico universo con dos lunas.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">1825</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">2.0</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:43.302453+00:00"/>
+        <meta name="calibre:title_sort" content="1Q84 - (Libro 3)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

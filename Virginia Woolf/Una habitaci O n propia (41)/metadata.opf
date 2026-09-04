@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">41</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">02c052a8-984a-4558-ab2b-1f0c77dfd73d</dc:identifier>
+        <dc:title>Una habitación propia</dc:title>
+        <dc:creator opf:file-as="Woolf, Virginia" opf:role="aut">Virginia Woolf</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1928-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En 1928 a Virginia Woolf le propusieron dar una serie de charlas sobre el tema de la mujer y la novela. Lejos de cualquier dogmatismo o presunción, planteó la cuestión desde un punto de vista realista, valiente y muy particular. Una pregunta: ¿qué necesitan las mujeres para escribir buenas novelas? Una sola respuesta: independencia económica y personal, es decir, «Una habitación propia». Sólo hacía nueve años que se le había concedido el voto a la mujer y aún quedaba mucho camino por recorrer. Son muchos los repliegues psicológicos y sociales implicados en este ensayo de tan inteligente exposición; fascinantes los matices históricos que hacen que el tema de la condición femenina y la enajenación de la mujer en la sociedad no haya perdido ni un ápice de actualidad. Partiendo de un tratamiento directo y empleando un lenguaje afilado, irónico e incisivo, Virginia Woolf narra una parábola cautivadora para ilustrar sus opiniones. Un relato de lectura apasionante, la contribución de una exquisita narradora al siempre polémico asunto del feminismo desde una perspectiva inevitablemente literaria.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.695098+00:00"/>
+        <meta name="calibre:title_sort" content="habitación propia, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

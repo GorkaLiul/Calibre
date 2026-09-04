@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">33</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1f9315b2-cce0-4dea-b652-8fc4899af03f</dc:identifier>
+        <dc:title>La sonrisa etrusca</dc:title>
+        <dc:creator opf:file-as="José Luis Sampedro" opf:role="aut">José Luis Sampedro</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-04-30T22:00:00+00:00</dc:date>
+        <dc:description>Un viejo campesino calabrés llega a casa de sus hijos en Milán para hacerse una revisión médica. Allí descubre su último amor, una criatura en la que volcar toda su ternura: su nieto, que se llama Bruno, como a él le llamaron sus camaradas partisanos. También allí vive su última pasión: un amor que cubre con su luz los últimos momentos de una vida que, en su acabamiento, puede sentir su propia plenitud.Una historia universal que en manos de José Luis Sampedro se transforma en un libro inolvidable que ofrece un conocimiento profundo y verdadero del alma humana.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:series" content="Áncora &amp; Delfín"/>
+        <meta name="calibre:series_index" content="947"/>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.568866+00:00"/>
+        <meta name="calibre:title_sort" content="La sonrisa etrusca"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

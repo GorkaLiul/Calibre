@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">30</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5e251b8a-d6a5-41a6-81e4-067a9511cb3f</dc:identifier>
+        <dc:title>El mito de Sísifo</dc:title>
+        <dc:creator opf:file-as="Camus, Albert" opf:role="aut">Albert Camus</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1941-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Sísifo había sido condenado por los dioses a realizar una actividad absurda. Albert Camus recrea el viejo mito griego de Sísifo considerándolo expresión o metáfora de la existencia humana. La aparición casi simultánea —en 1942— de &lt;cite&gt;El mito de Sísifo&lt;/cite&gt; y &lt;cite&gt;El extranjero&lt;/cite&gt; reveló al público el talento literario, la sensibilidad ética y la capacidad de reflexión teórica de Albert Camus (1913-1960), para quien narrativa, teatro, ensayo y periodismo fueron medios alternativos para indagar sobre la complejidad, la ambigüedad y la riqueza de la condición humana y para plantear y debatir los grandes problemas morales de nuestra época. La obra se compone de cuatro capítulos y un apéndice («La esperanza y lo absurdo en la obra de Franz Kafka») que estudian, desde enfoques cercanos al existencialismo, esa «sensibilidad absurda» que parece dominar gran parte del siglo &lt;span class="versalita"&gt;XX&lt;/span&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">56091cdc-b4ba-40ec-991a-65c74c222219</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Filosofía</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.280819+00:00"/>
+        <meta name="calibre:title_sort" content="mito de Sísifo, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

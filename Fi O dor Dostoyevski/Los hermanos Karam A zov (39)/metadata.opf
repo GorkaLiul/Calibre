@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">39</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">5f8aa420-20c2-4aeb-a769-f8dd6a14dbc0</dc:identifier>
+        <dc:title>Los hermanos Karamázov</dc:title>
+        <dc:creator opf:file-as="Dostoyevski, Fiódor" opf:role="aut">Fiódor Dostoyevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1879-12-31T23:50:39+00:00</dc:date>
+        <dc:description>&lt;p&gt;Con una traducción impecable directa del ruso, presentamos una nueva edición de la novela emblemática del célebre autor ruso.&lt;/p&gt;&lt;p&gt;Los hijos legítimos de Fiódor Pávlovich Karamázov —un «bufón», un «filisteo», un «déspota», solo en última instancia un padre— se reúnen después de haber sido educados, lejos unos de otros, en distintas partes de Rusia: Dmitri es soldado y —como su padre— puro «ímpetu», bebedor, derrochador, lujurioso; Iván se ha convertido en un escéptico que duda de la ley, de la conciencia y de la fe (el primer existencialista, según Sartre); Aliosha ha abrazado la religión, todo el mundo lo llama «ángel» y vive en un monasterio. Ineluctablemente, la reunión familiar precipita la disolución y la tragedia.&lt;/p&gt;&lt;p&gt;&lt;cite&gt;Los hermanos Karamázov&lt;/cite&gt; (1878-1880) fue la última novela de Dostoievski y sin duda una de esas obras decisivas cuya influencia ha perdurado hasta nuestros días. En ella se encuentra —diría un personaje de Kurt Vonnegut— «todo cuanto hay que saber en la vida»; también —añadiríamos— todo cuanto hay que saber del género narrativo. Con un narrador experto en tender lazos al lector y en crear con él una de las redes más fascinantes y comunicativas de la historia de la literatura, lo que Dostoievski construye no es solo una monumental visión del mundo moral humano (incertidumbre, crimen, perdón) sino un arriesgado y espléndido ensayo sobre la forma de reproducirlo.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">50a3d801-84dd-4902-a27f-26e2700977c4</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.307957+00:00"/>
+        <meta name="calibre:title_sort" content="hermanos Karamázov, Los"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

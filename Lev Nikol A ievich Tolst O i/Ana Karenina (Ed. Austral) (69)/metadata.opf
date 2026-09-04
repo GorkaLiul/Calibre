@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">69</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">58f5e929-be2f-49f2-9f9e-269453002114</dc:identifier>
+        <dc:title>Ana Karenina (Ed. Austral)</dc:title>
+        <dc:creator opf:file-as="Lev Nikoláievich Tolstói" opf:role="aut">Lev Nikoláievich Tolstói</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2012-06-20T23:00:00+00:00</dc:date>
+        <dc:description>&lt;div&gt;
+&lt;p&gt;Entre los grandes escritores del siglo XIX, Lev Nicoláievich Tolstói (1828-1910) ha sido calificado como genio único, sin equivalente en ningún otro país. Hijo de un acaudalado terrateniente que le dejó una fortuna inmensa, se lanzó por la vía de la disipación hasta que su participación como oficial durante la guerra de Crimea le hizo volverse hacia unos valores humanistas y continuar una vocación literaria en la que ya se había iniciado antes de la guerra. &lt;/p&gt;
+&lt;p&gt;El cambio afectó a sus convicciones espirituales más íntimas y desembocaría, al final de su vida, en una crisis moral y religiosa que derivó hacia un cristianismo evangélico radical. Al comienzo de esta etapa escribe Ana Karenina, en la que Tolstói refleja su visión de la sociedad urbana, símbolo de los vicios y el pecado, en oposición a la vida sana de la naturaleza y del campo. De ese mundo necio y patológico de la ciudad es víctima Ana Karenina, que se ha convertido en una figura clave de la literatura universal.&lt;/p&gt;&lt;/div&gt;</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:55.034504+00:00"/>
+        <meta name="calibre:title_sort" content="Ana Karenina (Ed. Austral)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

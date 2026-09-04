@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">72</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">1e350486-bc6f-4466-ab6e-2bca8e07fea0</dc:identifier>
+        <dc:title>Alicia en el País de las Maravillas (trad. Graciela Montes)</dc:title>
+        <dc:creator opf:file-as="Carroll, Lewis" opf:role="aut">Lewis Carroll</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1864-12-31T23:50:39+00:00</dc:date>
+        <dc:description>Varios equívocos han signado la lectura de «Alicia en el País de las Maravillas» desde que su autor, el reverendo Charles Lutwidge Dodgson (1832-1898), la publicara por su cuenta en 1865 bajo el seudónimo de Lewis Carroll. Ilustrada por John Tenniel, dibujante de «Punch», esa primera edición tuvo extraordinario e inesperado éxito; pero ya entonces la obra fue asimilada (¿degradada?), a la categoría de «literatura infantil» (claro que allí se encontró con textos de Swift, Defoe y otros compatriotas ilustres). Medio siglo después, André Breton la rescató (¿reivindicó?), como antecedente preclaro del surrealismo. Mas sobre estos encasillamientos que el texto soportó sin mella, hubo quienes se regodearon en considerar a Carroll como un pre-Nabokov, no por su riguroso empleo del lenguaje sino por la posible ambigua mirada que posaba sobre las niñas de su amistad. Lewis Carroll, tartamudo, matemático, titiritero, humorista y escritor insigne, seguramente no desestimó tales disparates y, como toda respuesta, dejó sus escritos.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">f398a616-a223-4789-b296-a7c51659f28a</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <dc:subject>Infantil</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:55.332495+00:00"/>
+        <meta name="calibre:title_sort" content="Alicia en el País de las Maravillas (trad. Graciela Montes)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

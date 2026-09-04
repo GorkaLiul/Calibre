@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">17</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">94215a4e-799f-4efc-907c-6b112e401466</dc:identifier>
+        <dc:title>Purgatorio</dc:title>
+        <dc:creator opf:file-as="Zurita, Raúl" opf:role="aut">Raúl Zurita</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1978-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Hasta antes de la publicación de Purgatorio, en 1979, la producción poética de Raúl Zurita era conocida fragmentariamente. Es el primer volumen poético que concretiza el proyecto mayor de Zurita, que en sus propias palabras define como: «El esfuerzo (de escribir poesía) no es tanto para estructurar el libro, la obra, sino para darle una estructura a la vida. Cada uno tiene la oportunidad de construir con su vida su propia Pietá, su propia escultura (…) La vida de uno y la de todos es el único producto de arte que merece la pena ser socializado. Para mí, todas las grandes transformaciones sociales han sido transformaciones en la creatividad. La Historia es la Historia del arte». Una de las ideas fundamentales de este poemario, y de parte importante de su obra, es la de someterse conscientemente a formas privadas y sociales de sufrimiento. La textura de esta poesía refleja el encierro sufrido por el poeta, luego del golpe militar de 1973 y la desazón que le provoca la destrucción del Chile que conoció. En este nuevo tejido se insertan manuscritos, electroencefalogramas, citas, un informe clínico de sí mismo y constantes desplazamientos de voces, personajes, géneros y geografías que, sumado a los paisajes obsesivos y la paulatina pérdida de la fe, conforman un texto psicótico, dolorido y destrozado, la propia imagen de Zurita y de Chile.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.948846+00:00"/>
+        <meta name="calibre:title_sort" content="Purgatorio"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">18</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">31f45b65-b9c5-4220-b99a-4a5dfda787ff</dc:identifier>
+        <dc:title>Primera persona del singular</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2020-07-17T22:00:00+00:00</dc:date>
+        <dc:description>Amores de adolescencia evocados con serena nostalgia, jóvenes apenas vislumbradas, reseñas de jazz sobre discos imposibles, un poeta amante del béisbol, un simio parlante que trabaja como masajista y un anciano que habla del círculo con varios centros… Los personajes y las escenas de este esperadísimo volumen de relatos hacen saltar por los aires los límites entre la imaginación y el mundo real. Y nos devuelven, intactos, los amores perdidos, las relaciones truncadas y la soledad, la adolescencia, los reencuentros y, sobre todo, la memoria del amor, porque «nadie podrá arrebatarnos el recuerdo de haber amado o de haber estado enamorados alguna vez en la vida», asegura el narrador. Un narrador en primera persona que, a veces, podría ser el propio Murakami. ¿Es entonces un libro de memorias, unos relatos con tintes autobiográficos o un volumen exclusivamente de ficción? El lector tendrá que decidir.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">62916</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:46.338539+00:00"/>
+        <meta name="calibre:title_sort" content="Primera persona del singular"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

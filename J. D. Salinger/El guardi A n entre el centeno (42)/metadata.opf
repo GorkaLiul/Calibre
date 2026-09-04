@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">42</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10b539bf-cfcd-4e19-bf11-ec112512017e</dc:identifier>
+        <dc:title>El guardián entre el centeno</dc:title>
+        <dc:creator opf:file-as="Salinger, J. D." opf:role="aut">J. D. Salinger</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1951-07-15T23:00:00+00:00</dc:date>
+        <dc:description>Las peripecias del adolescente Holden Caulfield en una Nueva York que se recupera de la guerra influyeron en sucesivas generaciones de todo el mundo. En su confesión sincera y sin tapujos, muy lejos de la visión almibarada de la adolescencia que imperó hasta entonces, Holden nos desvela la realidad de un muchacho enfrentado al fracaso escolar, a las rígidas normas de una familia tradicional, a la experiencia de la sexualidad más allá del mero deseo.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">e27eebf9-337f-4523-b5a9-e8d03446965e</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.785079+00:00"/>
+        <meta name="calibre:title_sort" content="guardián entre el centeno, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

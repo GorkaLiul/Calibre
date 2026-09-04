@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">43</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">51864189-5296-48d9-882e-153d061421d3</dc:identifier>
+        <dc:title>El fin del mundo y un despiadado país de las maravillas</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1985-01-14T23:00:00+00:00</dc:date>
+        <dc:description>Dos historias paralelas se desarrollan en escenarios de nombre evocador: una transcurre en el llamado «fin del mundo», una misteriosa ciudad amurallada; la otra, en un Tokio de un futuro quizá no muy lejano, un frío y despiadado país de las maravillas. En la primera, el narrador y protagonista, anónimo, se ve privado de su sombra, poco a poco también de sus recuerdos, e impelido a leer sueños entre unos habitantes de extrañas carencias anímicas y unicornios cuyo pelaje se torna dorado en invierno. En la segunda historia, el protagonista es un informático de gustos refinados que trabaja en una turbia institución gubernamental, enfrentada a otra organización no menos siniestra en una guerra por el control de la información; sus servicios son requeridos por un inquietante científico que juguetea con la manipulación de la conciencia y de la mente y vive aislado en la red de alcantarillado, una red poblada por los tinieblos, tenebrosas criaturas carnívoras.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:50.878123+00:00"/>
+        <meta name="calibre:title_sort" content="fin del mundo y un despiadado país de las maravillas, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

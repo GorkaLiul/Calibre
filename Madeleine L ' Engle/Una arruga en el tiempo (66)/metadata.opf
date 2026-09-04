@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">66</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6cab4cde-6046-4334-8993-8a30d6e5958f</dc:identifier>
+        <dc:title>Una arruga en el tiempo</dc:title>
+        <dc:creator opf:file-as="L’Engle, Madeleine" opf:role="aut">Madeleine L’Engle</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1961-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Meg Murry, su hermano pequeño Charles Wallace, y su madre se reúnen en la cocina para tomar un bocado de medianoche cuando de repente son sorprendidos por la llegada de una insólita visitante.&lt;/p&gt;&lt;p&gt;A partir de ese momento, Meg, Charles y su nuevo amigo Calvin se embarcan en un peligroso viaje a través del espacio y el tiempo para encontrar a su padre. Los jóvenes tendrán que confiar en sí mismos para vencer las terribles fuerzas del mal que intentan apoderarse del universo si es que quieren rescatar a su padre y regresar con vida a su querido hogar.&lt;/p&gt;&lt;p&gt;Traducida a más de treinta idiomas y con más de catorce millones de ejemplares vendidos en todo el mundo, &lt;cite&gt;Una arruga en el tiempo&lt;/cite&gt; es una de las novelas fundacionales de la literatura juvenil y una profunda historia que mezcla con excepcional talento la fantasía, la filosofía y la ciencia.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">5034e377-8fc9-4142-9150-9ff39c0a1c0d</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:54.737370+00:00"/>
+        <meta name="calibre:title_sort" content="arruga en el tiempo, Una"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

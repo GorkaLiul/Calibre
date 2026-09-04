@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">12</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">6ff507df-5d5d-4dca-bbaf-3dc86eefb1bf</dc:identifier>
+        <dc:title>Tokio blues</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1986-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;b&gt;La obra más exitosa de Haruki Murakami. Un conmovedora historia sobre la juventud, los primeros amores y el dolor que implica el paso a la madurez.&lt;/b&gt;&lt;/p&gt;&lt;p&gt;Tōru Watanabe, un ejecutivo de 37 años, escucha casualmente mientras aterriza en un aeropuerto europeo una vieja canción de los Beatles, y la música le hace retroceder a su juventud, al turbulento Tokio de finales de los sesenta. Tōru recuerda, con una mezcla de melancolía y desasosiego, a la inestable y misteriosa Naoko, la novia de su mejor —y único— amigo de la adolescencia, Kizuki. El suicidio de este les distancia durante un año hasta que se reencuentran en la universidad. Inician allí una relación íntima; sin embargo, la frágil salud mental de Naoko se resiente y la internan en un centro de reposo. Al poco, Tōru se enamora de Midori, una joven activa y resuelta. Indeciso, sumido en dudas y temores, experimenta el deslumbramiento y el desengaño allá donde todo parece cobrar sentido: el sexo, el amor y la muerte. La situación, para él, para los tres, se ha vuelto insostenible; ninguno parece capaz de alcanzar el delicado equilibrio entre las esperanzas juveniles y la necesidad de encontrar un lugar en el mundo.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">2.1</dc:identifier>
+        <dc:identifier opf:scheme="EPL">1922</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.295223+00:00"/>
+        <meta name="calibre:title_sort" content="Tokio blues"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

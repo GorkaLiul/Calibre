@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">67</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">bacea106-c22d-4a9d-adc3-231c28fcdbd2</dc:identifier>
+        <dc:title>Antología poética</dc:title>
+        <dc:creator opf:file-as="Pablo Neruda" opf:role="aut">Pablo Neruda</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2011-11-04T23:00:00+00:00</dc:date>
+        <dc:description>Pablo Neruda, uno de los mayores poetas contemporáneos en lengua castellana, ejerció una decisiva influencia en poetas como García Lorca, o Rafael Alberti, con quienes mantuvo una estrecha amistad. Precisamente fue Alberti quien se encargó de hacer esta selección (acompañada por un prólogo), en la que se hace un detallado recorrido por las principales obras del poeta chileno.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Otros</dc:subject>
+        <dc:subject>Poesía</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:54.839081+00:00"/>
+        <meta name="calibre:title_sort" content="Antología poética"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

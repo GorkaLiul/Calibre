@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">35</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">99df5044-19ee-4813-b35d-5c3fcf681919</dc:identifier>
+        <dc:title>Las intermitencias de la muerte</dc:title>
+        <dc:creator opf:file-as="Saramago, José" opf:role="aut">José Saramago</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2004-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En un país cuyo nombre no será mencionado se produce algo nunca visto desde el principio del mundo: la muerte decide suspender su trabajo letal, la gente deja de morir. La euforia colectiva se desata, pero muy pronto dará paso a la desesperación y al caos. Sobran los motivos. Si es cierto que las personas ya no mueren, eso no significa que el tiempo haya parado. El destino de los humanos será una vejez eterna.&lt;/p&gt;&lt;p&gt;Se buscarán maneras de forzar a la muerte a matar aunque no lo quiera, se corromperán las conciencias en los «acuerdos de caballeros» explícitos o tácitos entre el poder político, las mafias y las familias, los ancianos serán detestados por haberse convertido en estorbos irremovibles. Hasta el día en que la muerte decide volver…&lt;/p&gt;&lt;p&gt;Arrancando una vez más de una proposición contraria a la evidencia de los hechos corrientes, José Saramago desarrolla una narrativa de gran fecundidad literaria, social y filosófica que sitúa en el centro la perplejidad del hombre ante la impostergable finitud de la existencia. Parábola de la corta distancia que separa lo efímero y lo eterno, &lt;cite&gt;Las intermitencias de la muerte&lt;/cite&gt; bien podría terminar tal como empieza: «Al día siguiente no murió nadie».&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">3252</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.6</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.873151+00:00"/>
+        <meta name="calibre:title_sort" content="intermitencias de la muerte, Las"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

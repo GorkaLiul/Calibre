@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">73</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">cfa7bf4f-bef7-4fac-a3b5-9ff26ef5c969</dc:identifier>
+        <dc:title>After Dark</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2003-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Cerca ya de medianoche, Mari, sentada sola a la mesa de un restaurante, se toma un café, fuma y lee. Un joven la interrumpe: es Takahashi, un músico al que ha visto una única vez, en una cita de su hermana Eri, modelo profesional. Ésta, mientras tanto, duerme en su habitación, sumida en un sueño profundo, «demasiado perfecto, demasiado puro». Mari ha perdido el último tren de vuelta a casa y piensa pasarse la noche leyendo en el restaurante; Takahashi se va a ensayar con su grupo, pero promete regresar antes del alba. Mari sufre una segunda interrupción: Kaoru, la encargada de un «hotel por horas», solicita su ayuda. Mari habla chino y una prostituta de esa nacionalidad ha sido brutalmente agredida por un cliente. Dan las doce. En la habitación donde Eri sigue sumida en una dulce inconsciencia, el televisor cobra vida y poco a poco empieza a distinguirse en la pantalla una imagen turbadora: una amplia sala amueblada con una única silla en la que está sentado un hombre vestido de negro. Lo más inquietante es que el televisor no está enchufado…</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">b5e39e65-3159-4649-a5ef-e0f61170cc8e</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Fantástico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:57.259872+00:00"/>
+        <meta name="calibre:title_sort" content="After Dark"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

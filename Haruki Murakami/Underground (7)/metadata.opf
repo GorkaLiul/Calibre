@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">7</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">c9a4583e-8b37-46fc-8f26-4fa0e075a390</dc:identifier>
+        <dc:title>Underground</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1997-12-31T23:00:00+00:00</dc:date>
+        <dc:description>El ataque con gas sarín que se produjo en el metro de Tokio en marzo de 1995 se cobró doce vidas, además, miles de personas resultaron heridas y muchas otras sufrieron sus consecuencias y secuelas. Hondamente afectado, el novelista Haruki Murakami entrevista a las víctimas, a los que vivieron y sufrieron en su propia carne el atentado, para establecer con precisión qué ocurrió ese día en las distintas líneas de metro afectadas y cómo lo vivieron. También desentraña la verdadera historia que se ocultaba tras aquel acto terrorista que convirtió una anodina mañana de lunes en una tragedia nacional. Y, sobre todo, intenta responder a algunas preguntas primordiales: ¿por qué? ¿Por qué en ese momento y lugar concretos?, ¿qué nos dice de la psicología japonesa el comportamiento de todos los implicados? Como contrapunto, Murakami nos ofrece los testimonios de algunos miembros y ex miembros de la secta para desentrañar los motivos que condujeron a aquel atentado.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Historia</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:44.230391+00:00"/>
+        <meta name="calibre:title_sort" content="Underground"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

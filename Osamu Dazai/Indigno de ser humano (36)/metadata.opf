@@ -1,0 +1,26 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">36</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d4c1fb29-0f56-460c-8d10-0aa85a152c5c</dc:identifier>
+        <dc:title>Indigno de ser humano</dc:title>
+        <dc:creator opf:file-as="Dazai, Osamu" opf:role="aut">Osamu Dazai</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1947-12-31T23:00:00+00:00</dc:date>
+        <dc:description>«Por lo general, las personas no muestran lo terribles que son. Pero son como una vaca pastando tranquila que, de repente, levanta la cola y descarga un latigazo sobre el tábano. Basta que se dé la ocasión para que muestren su horrenda naturaleza. Recuerdo que se me llegaba a erizar el cabello de terror al pensar en que este carácter innato es una condición esencial para que el ser humano sobreviva. Al pensarlo, perdía cualquier esperanza sobre la humanidad». Publicada por primera vez en 1948, «Indigno de ser humano» es una de las novelas más célebres de la literatura japonesa contemporánea. Su polémico y brillante autor, Osamu Dazai, incorporó numerosos episodios de su turbulenta vida a los tres cuadernos que conforman esta novela y que narran, en primera persona y de forma descarnada, el progresivo declive como ser humano de Yozo, joven estudiante de provincias que lleva una vida disoluta en Tokio. Repudiado por su familia tras un intento de suicidio e incapaz de vivir en armonía con sus hipócritas semejantes, Yozo malvive como dibujante de historietas y subsiste gracias a la ayuda de mujeres que se enamoran de él pese a su alcoholismo y adicción a la morfina. Sin embargo, tras el despiadado retrato que Yozo hace de su vida, Dazai cambia repentinamente de punto de vista y nos muestra, mediante la voz de una de las mujeres con las que Yozo convivió, una semblanza muy distinta del trágico protagonista de esta perturbadora historia. «Indigno de ser humano» se ha convertido, con el paso de los años, en una de las obras más populares de la literatura japonesa, superando los diez millones de ejemplares vendidos desde su primera publicación en 1948.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.6</dc:identifier>
+        <dc:identifier opf:scheme="EPL">12934</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:series" content="al margen"/>
+        <meta name="calibre:series_index" content="4"/>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.965154+00:00"/>
+        <meta name="calibre:title_sort" content="Indigno de ser humano"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

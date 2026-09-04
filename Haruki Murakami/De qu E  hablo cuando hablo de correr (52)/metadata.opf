@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">52</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">27a52bb6-d8df-45bb-bbdb-23c30c9ad669</dc:identifier>
+        <dc:title>De qué hablo cuando hablo de correr</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-09-30T22:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;Tras dejar el club de jazz que había llevado durante unos años, y por la misma época en que decidió dedicarse exclusivamente a la literatura, Haruki Murakami se puso a correr para compensar la falta de actividad física que conllevaba su nueva profesión.&lt;/p&gt;&lt;p&gt;Pero lo que empezó como una práctica accesoria pronto se convirtió en algo mucho más serio, y se vio entrenando varias horas cada día y aumentando sus registros, poco a poco pero sin pausa, hasta que al año de haber iniciado el entrenamiento culminó por su cuenta un trayecto completo e infernal desde Atenas hasta el hoy villorrio de Maratón.&lt;/p&gt;&lt;p&gt;A partir de ahí, su cuerpo le pidió cada vez más y más: ultramaratones, triatlones, carreras de larga distancia por todo el mundo… una espiral creciente de esfuerzo y superación personal, de satisfacción y dolor, que acaba por trascender el mero hecho de correr para convertirse en una experiencia casi metafísica y central en su vida.&lt;/p&gt;&lt;p&gt;Correr cambia tanto su cuerpo y su mente como influye en la práctica de su escritura, y llega a desdibujar al escritor hasta el punto de que leyendo &lt;cite&gt;De qué hablo cuando hablo de correr&lt;/cite&gt; es casi imposible distinguir si Haruki Murakami es un novelista que corre o un corredor de fondo que escribe novelas. Aunque quizá la distinción sea completamente inútil, porque si algo se desprende de las páginas de este libro es que, para Murakami, escribir, correr y vivir es todo lo mismo.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:identifier opf:scheme="EPL">4016</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ensayo</dc:subject>
+        <dc:subject>Memorias</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:52.660685+00:00"/>
+        <meta name="calibre:title_sort" content="De qué hablo cuando hablo de correr"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

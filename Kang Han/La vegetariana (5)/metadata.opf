@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">5</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">aa03206e-0c22-48af-8880-82209090fe25</dc:identifier>
+        <dc:title>La vegetariana</dc:title>
+        <dc:creator opf:file-as="Kang Han" opf:role="aut">Kang Han</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2007-10-29T23:00:00+00:00</dc:date>
+        <dc:description>Yeonghye es una mujer aparentemente normal, joven, sin mayores virtudes o defectos. Una noche, sin ninguna actitud previa que hiciera suponer un cambio en su carácter, su marido la encuentra en la cocina tirando a la basura toda la carne almacenada en el congelador. Cuando él la increpa por lo que está haciendo, ella le dice que ha tenido un sueño y que abandonará la ingesta de carnes. Su determinación es absolutamente radical e irrevocable, pero el marido y la familia no están preparados para esta decisión ni para la transformación que comienza a gestarse en Yeonghye a partir de ese momento.La vegetariana es una novela con un fuerte componente psicológico, que cuestiona los límites culturales de la cordura, la violencia y el valor del cuerpo como un bien privado y último refugio.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Otros</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:series" content="100 mejores del s. XXI para el NYT"/>
+        <meta name="calibre:series_index" content="49"/>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:43.660698+00:00"/>
+        <meta name="calibre:title_sort" content="vegetariana, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

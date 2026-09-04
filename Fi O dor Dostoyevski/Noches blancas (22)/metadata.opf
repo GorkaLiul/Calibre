@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">22</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">10c3f8c1-58d8-4723-b173-4b3c4720c0f2</dc:identifier>
+        <dc:title>Noches blancas</dc:title>
+        <dc:creator opf:file-as="Dostoyevski, Fiódor" opf:role="aut">Fiódor Dostoyevski</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1847-12-31T23:00:00+00:00</dc:date>
+        <dc:description>San Petersburgo, su luz, sus casas y sus avenidas son el escenario de esta apasionada novela. En una de esas «noches blancas» que se dan en la ciudad rusa durante la época del solsticio de verano, un joven solitario e introvertido narra cómo conoce de forma accidental a una muchacha a la orilla del canal. Tras el primer encuentro, la pareja de desconocidos se citará las tres noches siguientes, noches en las que ella, de nombre Nástenka, relatará su triste historia y en las que harán acto de presencia, de forma sutil y envolvente, las grandes pasiones que mueven al ser humano: el amor, la ilusión, la esperanza, el desamor, el desengaño.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">1f1ff71b-75e3-4fef-a19b-29b5e9b31264</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:46.989661+00:00"/>
+        <meta name="calibre:title_sort" content="Noches blancas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

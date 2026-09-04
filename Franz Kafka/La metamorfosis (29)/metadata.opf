@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">29</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">33f5ae01-7501-4c88-b552-e54ff0f0ac73</dc:identifier>
+        <dc:title>La metamorfosis</dc:title>
+        <dc:creator opf:file-as="Kafka, Franz" opf:role="aut">Franz Kafka</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1914-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;cite&gt;La metamorfosis&lt;/cite&gt; relata la peripecia subterránea y literal de Gregor Samsa, un viajante de comercio que «al despertarse una mañana de un sueño lleno de pesadillas se encontró en su cama convertido en un bicho enorme».&lt;/p&gt;&lt;p&gt;En pocos libros de Kafka queda tan explícito y tan nítido su mundo como en &lt;cite&gt;La metamorfosis&lt;/cite&gt;, en la que el protagonista, convertido en bestia, sumido en la más absoluta incomunicación, se ve reducido cruelmente a la nada y arrastrado inexorablemente a la muerte.&lt;/p&gt;&lt;p&gt;Otros escritos de Kafka desarrollan rigurosas variaciones paralelas, desmenuzan inexorables pesadillas, asignan obsesiones enigmáticas a personajes desorientados y vencidos, pero tal vez sea &lt;cite&gt;La metamorfosis&lt;/cite&gt; la narración que mejor expresa al «hombre primordial kafkiano». De ahí que merezca la calificación unánime de obra perfecta y obra maestra, un texto decididamente superior en el panorama de la literatura universal del siglo&amp;nbsp;&lt;small&gt;XX&lt;/small&gt;.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">63480627-b36b-427c-84f4-e95cf8d1ea6d</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Terror</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.200052+00:00"/>
+        <meta name="calibre:title_sort" content="metamorfosis, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

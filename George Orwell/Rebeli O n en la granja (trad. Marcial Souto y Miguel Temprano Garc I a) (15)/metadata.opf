@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">15</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">f08f956b-d403-486d-aef3-c80a3a393ac9</dc:identifier>
+        <dc:title>Rebelión en la granja (trad. Marcial Souto y Miguel Temprano García)</dc:title>
+        <dc:creator opf:file-as="Orwell, George" opf:role="aut">George Orwell</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1944-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Un rotundo alegato a favor de la libertad y en contra del totalitarismo que se ha convertido en un clásico de la literatura del siglo XX. Esta sátira de la Revolución rusa y el triunfo del estalinismo, escrita en 1945, se ha convertido por derecho propio en un hito de la cultura contemporánea y en uno de los libros más mordaces de todos los tiempos. Ante el auge de los animales de la Granja Solariega, pronto detectamos las semillas del totalitarismo en una organización aparentemente ideal; y en nuestros líderes más carismáticos, la sombra de los opresores más crueles. «Una obra literaria perfecta.» T.S. Eliot. Epílogo de Christopher Hitchens.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">7c2307b1-4e60-4332-880f-b49c5efaac19</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Sátira</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.789874+00:00"/>
+        <meta name="calibre:title_sort" content="Rebelión en la granja (trad. Marcial Souto y Miguel Temprano García)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">57</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">88baf6ee-5f71-42fe-868b-ec281503d61d</dc:identifier>
+        <dc:title>Cien años de soledad (Ed. Ilustrada)</dc:title>
+        <dc:creator opf:file-as="García Márquez, Gabriel" opf:role="aut">Gabriel García Márquez</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1966-12-31T23:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;En ocasión del 50 aniversario de la publicación de &lt;cite&gt;Cien años de soledad&lt;/cite&gt;, llega una edición con ilustraciones inéditas de la artista chilena Luisa Rivera. Una edición conmemorativa de una novela clave en la historia de la literatura, una obra que todos deberíamos tener en nuestras estanterías.&lt;/p&gt;&lt;p&gt;«Muchos años después, frente al pelotón de fusilamiento, el coronel Aureliano Buendía había de recordar aquella tarde remota en que su padre lo llevó a conocer el hielo».&lt;/p&gt;&lt;p&gt;Con esta cita comienza una de las novelas más importantes del siglo&amp;#160;&lt;small&gt;XX&lt;/small&gt; y una de las aventuras literarias más fascinantes de todos los tiempos. Millones de ejemplares de &lt;cite&gt;Cien años de soledad&lt;/cite&gt; leídos en todas las lenguas y el premio Nobel de Literatura coronando una obra que se había abierto paso «boca a boca» —como gustaba decir el escritor— son la más palpable demostración de que la aventura fabulosa de la familia Buendía-Iguarán, con sus milagros, fantasías, obsesiones, tragedias, incestos, adulterios, rebeldías, descubrimientos y condenas, representaba al mismo tiempo el mito y la historia, la tragedia y el amor del mundo entero.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">40813</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.1</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:53.351114+00:00"/>
+        <meta name="calibre:title_sort" content="Cien años de soledad (Ed. Ilustrada)"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

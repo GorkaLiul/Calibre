@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">50</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7daf2677-83ab-4fb4-b4ae-73d3e5b7f3e2</dc:identifier>
+        <dc:title>Después del terremoto</dc:title>
+        <dc:creator opf:file-as="Murakami, Haruki" opf:role="aut">Haruki Murakami</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La magnitud del terremoto que en 1995 asoló la ciudad japonesa de Kobe, y que se cobró más de cinco mil vidas, movió a Haruki Murakami a dedicar a este terrible suceso seis impactantes historias que transcurren poco después de la tragedia. El protagonista omnisciente, y también el más conmovedor, es el propio seísmo, que, unas veces de manera sutil, otras de modo muy signifi cativo, irrumpe en las vidas de aquellos que sobrevivieron al apocalipsis. Del dolor inconsolable de una nación aterrada Murakami ha sabido extraer muchas verdades sobre la compasión, el coraje y la naturaleza del sufrimiento humano.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Relato</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:52.475661+00:00"/>
+        <meta name="calibre:title_sort" content="Después del terremoto"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

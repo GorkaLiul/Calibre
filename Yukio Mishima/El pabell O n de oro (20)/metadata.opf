@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">20</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">8bd7fc38-2824-4b67-9a38-9fe6072d7e33</dc:identifier>
+        <dc:title>El pabellón de oro</dc:title>
+        <dc:creator opf:file-as="Mishima, Yukio" opf:role="aut">Yukio Mishima</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1955-12-31T23:00:00+00:00</dc:date>
+        <dc:description>La presente obra, publicada en 1956, está fundada en un acontecimiento real: el incendio de un famoso templo budista por un joven novicio. El autor reconstruye a su manera los hechos e intenta hallarles una explicación psicológica: el protagonista de su novela, Mizoguchi, es un muchacho torpe, tartamudo a consecuencia de un traumatismo psicológico sufrido en su niñez, y afligido por un complejo de inferioridad que todas las circunstancias de su vida contribuyen a agravar. Admitido en el monasterio del Rokuonji (al que pertenece el Pabellón de Oro) gracias a la benevolencia del prior, acaba por concebir por el famoso monumento una admiración enfermiza, que lo lleva a identificarlo con el arquetipo de la belleza y a hacer imposible para él toda otra admiración y todo otro afecto. El descubrimiento de esta influencia paralizadora lo llevará a odiar a su ídolo y a destruirlo para recobrar finalmente la libertad. En «El pabellón de oro» se basa en buena parte la película biográfica «Mishima», producida por Francis Ford Coppola y George Lucas y dirigida por Paul Schrader, rodada en 1984.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="EPL">2910</dc:identifier>
+        <dc:identifier opf:scheme="REVISION">1.3</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Psicológico</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:46.619271+00:00"/>
+        <meta name="calibre:title_sort" content="pabellón de oro, El"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

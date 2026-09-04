@@ -1,0 +1,23 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">25</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">7188ca69-a9d9-48ed-9cfa-c87934cd585a</dc:identifier>
+        <dc:title>Un mundo feliz (trad. Ramón Hernández)</dc:title>
+        <dc:creator opf:file-as="Huxley, Aldous" opf:role="aut">Aldous Huxley</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1932-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;i&gt;Un mundo feliz&lt;/i&gt; es la novela más famosa del escritor británico Aldous Huxley, publicada por primera vez en 1932. La novela anticipa el desarrollo en tecnología reproductiva, cultivos humanos e hipnopedia que, combinadas, cambian radicalmente la sociedad. El mundo aquí descrito podría ser una utopía, aunque irónica y ambigua: la humanidad es desenfadada, saludable y avanzada tecnológicamente. La guerra y la pobreza han sido erradicadas, y todos son permanentemente felices. Sin embargo, la ironía es que todas estas cosas se han alcanzado tras eliminar muchas otras: la familia, la diversidad cultural, el arte, la ciencia, la literatura, la religión y la filosofía.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">ce7635a2-c1c1-4be0-a397-3582268c99eb</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Ciencia ficción</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:48.486811+00:00"/>
+        <meta name="calibre:title_sort" content="mundo feliz (trad. Ramón Hernández), Un"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

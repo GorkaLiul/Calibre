@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">13</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">2a52c776-6f82-4f12-9744-ef1321877987</dc:identifier>
+        <dc:title>Sanshiro</dc:title>
+        <dc:creator opf:file-as="Natsume, Sōseki" opf:role="aut">Sōseki Natsume</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1907-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Considerada la novela puente entre las dos obras maestras de Natsume Sōseki, «Kokoro» y «Botchan», «Sanshiro» es una deliciosa sátira que derrocha ternura y humor a la japonesa. Sanshiro es un muchacho de pueblo que se muda a la cosmopolita Universidad de Tokio para estudiar Literatura. Durante el año que permanece en la ciudad se verá obligado a confraternizar con los esnobs tokiotas, además de con temibles muchachas occidentalizadas, afamados escritores, abnegados científicos y, sobre todo, con su mejor amigo, Yojiro, un adorable granuja, una auténtica comadreja que constantemente meterá a su tímido colega en líos. Por si fuera poco, Sanshiro acabará enamorándose locamente de una muchacha con ínfulas artísticas, y esa será su perdición.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="REVISION">1.2</dc:identifier>
+        <dc:identifier opf:scheme="EPL">2827</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Sátira</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:45.556270+00:00"/>
+        <meta name="calibre:title_sort" content="Sanshiro"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

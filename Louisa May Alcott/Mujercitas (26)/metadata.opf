@@ -1,0 +1,24 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">26</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">fc0d6644-14b8-49c7-9096-2c9c3c38c515</dc:identifier>
+        <dc:title>Mujercitas</dc:title>
+        <dc:creator opf:file-as="Alcott, Louisa May" opf:role="aut">Louisa May Alcott</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1867-12-31T23:00:00+00:00</dc:date>
+        <dc:description>En Espartaco, el senador Graco hizo el siguiente diagnóstico: «En Roma la dignidad acorta la vida más que una enfermedad». Mujercitas prescribe justamente lo contrario: vivir de un modo discretamente confortable sin perder la dignidad. En unos momentos en que la obsesión por el dinero como sinónimo de éxito social nos ha desvelado a qué extremos de podredumbre y envilecimiento puede conducir a una sociedad, quizá no sea impertinente recordar alguna de esas máximas horacianas poco revolucionarias que la madre de Jo transmite a sus hijas, o el reconocimiento de ciertas virtudes tan «trasnochadas» como el trabajo creativo, la tolerancia o la solidaridad.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">bd72757e-c192-4f04-8897-5ad359da92ac</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Drama</dc:subject>
+        <dc:subject>Juvenil</dc:subject>
+        <dc:subject>Romántico</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:48.592313+00:00"/>
+        <meta name="calibre:title_sort" content="Mujercitas"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

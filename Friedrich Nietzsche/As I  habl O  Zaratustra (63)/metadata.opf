@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">63</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">010ee5cf-d0a7-4f94-b650-b66c5d6dbb55</dc:identifier>
+        <dc:title>Así habló Zaratustra</dc:title>
+        <dc:creator opf:file-as="Nietzsche, Friedrich" opf:role="aut">Friedrich Nietzsche</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1882-12-31T23:50:39+00:00</dc:date>
+        <dc:description>Así habló Zaratustra, el libro más célebre y controvertido de toda la obra de Friedrich Nietzsche, se sirve de la figura semilegendaria del filósofo persa del siglo VI A. C. para desarrollar, mediante una trama de elementos narrativos, conceptuales y líricos, los cuatro grandes temas que integran su legado: el superhombre, la muerte de Dios, la voluntad de poder y el eterno retorno de lo idéntico.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosofía</dc:subject>
+        <dc:subject>Filosófico</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:54.199164+00:00"/>
+        <meta name="calibre:title_sort" content="Así habló Zaratustra"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

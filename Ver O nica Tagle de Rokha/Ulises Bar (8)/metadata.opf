@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">8</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">d957aeca-efe7-4ebc-a6dd-5101c75eb9b9</dc:identifier>
+        <dc:title>Ulises Bar</dc:title>
+        <dc:creator opf:file-as="Verónica Tagle de Rokha" opf:role="aut">Verónica Tagle de Rokha</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>2014-12-15T23:00:00+00:00</dc:date>
+        <dc:description>Ulises Bar* narra la historia de un cantante con alma de travesti, una prostituta con alma de poeta y el mágico puerto de Valparaíso como telón de fondo.  Simón Rocco, un joven músico que es injustamente inculpado de asesinato, se ve obligado a travestirse para sobrevivir en el Valparaíso de fines de la década del 30. Bajo el nombre de Emperatriz consigue un puesto de cantante mujer en el Ulises Bar, el local más famoso del puerto.  El relato devela las razones que llevan a Simón a posesionarse de lo femenino, hasta el extremo de que siendo heterosexual, descubre que es travesti.  ¿Es posible un travestismo heterosexual?  No siendo el travestismo el único tema de la novela, este se inmiscuye en las historias de amor, discriminación y desencuentro, de una variedad de personajes que se ven envueltos en una subtrama de corte policíaco, con toques de erotismo y mucho humor.  Es difícil clasificar *Ulises Bar*, porque siendo un drama, deriva con facilidad en comedia. También podría catalogarse de novela musical, si tal categoría existiese, pero la sonoridad del relato no está solo en los fragmentos de letras de canciones que contiene, sino que en el tono general, palpitante de la novela.  A medida que avance en la lectura, usted se sentirá un personaje más de esta historia. Y porque todos tenemos algo de travesti, de poeta, de prostituta, de bohemio, de extranjero, le aseguro que estará ansioso esperando que llegue la noche para escaparse al Ulises Bar.</dc:description>
+        <dc:publisher>lineasdesaparecidas</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Realista</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:44.503346+00:00"/>
+        <meta name="calibre:title_sort" content="Ulises Bar"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>

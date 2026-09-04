@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">86</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">e99dc341-ce4f-4191-83af-a4b79282afb1</dc:identifier>
+        <dc:title>Nocturno de Chile</dc:title>
+        <dc:creator opf:file-as="Roberto Bolaño" opf:role="aut">Roberto Bolaño</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.14.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1999-12-31T23:00:00+00:00</dc:date>
+        <dc:description>Sebastián Urrutia Lacroix, sacerdote del Opus Dei, crítico literario y poeta mediocre, revisa su vida en una noche de fiebre alta en la que cree que va a morir. Y en su delirio febril van apareciendo Jünger y un pintor guatemalteco que se deja morir de inanición en el París de 1943, un Pinochet al que el protagonista da clases de marxismo, el ya anciano pope de la crítica nacional, una misteriosa mujer en cuya casa se reúne lo más granado de la literatura chilena, todo ello mientras en las calles de Santiago impera el toque de queda. Una novela escalofriante, imprescindible.</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:language>spa</dc:language>
+        <dc:subject>Novela</dc:subject>
+        <dc:subject>Otros</dc:subject>
+        <meta name="calibre:timestamp" content="2026-09-04T19:23:00.010030+00:00"/>
+        <meta name="calibre:title_sort" content="Nocturno de Chile"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="Cover" href="cover.jpg"/>
+    </guide>
+</package>

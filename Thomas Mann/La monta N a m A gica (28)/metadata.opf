@@ -1,0 +1,22 @@
+<?xml version='1.0' encoding='utf-8'?>
+<package xmlns="http://www.idpf.org/2007/opf" unique-identifier="uuid_id" version="2.0">
+    <metadata xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:opf="http://www.idpf.org/2007/opf">
+        <dc:identifier opf:scheme="calibre" id="calibre_id">28</dc:identifier>
+        <dc:identifier opf:scheme="uuid" id="uuid_id">158d8680-912e-45b9-b88e-f637894f976b</dc:identifier>
+        <dc:title>La montaña mágica</dc:title>
+        <dc:creator opf:file-as="Mann, Thomas" opf:role="aut">Thomas Mann</dc:creator>
+        <dc:contributor opf:file-as="calibre" opf:role="bkp">calibre (9.12.0) [https://calibre-ebook.com]</dc:contributor>
+        <dc:date>1924-01-01T00:00:00+00:00</dc:date>
+        <dc:description>&lt;p&gt;&lt;cite&gt;La montaña mágica&lt;/cite&gt; (&lt;cite&gt;Der Zauberberg&lt;/cite&gt;, en el original alemán) es una novela de Thomas Mann que se publicó en 1924. Es considerada la novela más importante de su autor y un clásico de la literatura en lengua alemana del siglo &lt;small&gt;XX&lt;/small&gt; que ha sido traducido a numerosos idiomas.&lt;/p&gt;&lt;p&gt;Thomas Mann comenzó a escribir la novela en 1912, a raíz de una visita a su esposa en el Sanatorio Wald de Davos en el que se encontraba internada. La concibió inicialmente como una novela corta, pero el proyecto fue creciendo con el tiempo hasta convertirse en una obra mucho más extensa.&lt;/p&gt;&lt;p&gt;La obra narra la estancia de su protagonista principal, el joven Hans Castorp, en un sanatorio de los Alpes suizos al que inicialmente había llegado únicamente como visitante.&lt;/p&gt;&lt;p&gt;La obra ha sido calificada de novela filosófica, porque, aunque se ajusta al molde genérico de la novela de aprendizaje, introduce reflexiones sobre los temas más variados, tanto a cargo del narrador como de los personajes (especialmente Naphta y Settembrini, los encargados de la educación del protagonista). Entre estos temas ocupa un lugar preponderante el del «tiempo», hasta el punto de que el propio autor la calificó de «novela del tiempo», pero también se dedican muchas páginas a discutir sobre la enfermedad, la muerte, la estética, la política, etc.&lt;/p&gt;</dc:description>
+        <dc:publisher>Epublibre</dc:publisher>
+        <dc:identifier opf:scheme="MOBI-ASIN">a2bd58bc-2fd7-4130-a4f2-a80f32a3fdf2</dc:identifier>
+        <dc:language>spa</dc:language>
+        <dc:subject>Filosófico</dc:subject>
+        <dc:subject>Novela</dc:subject>
+        <meta name="calibre:timestamp" content="2026-08-27T11:14:49.032835+00:00"/>
+        <meta name="calibre:title_sort" content="montaña mágica, La"/>
+    </metadata>
+    <guide>
+        <reference type="cover" title="表紙" href="cover.jpg"/>
+    </guide>
+</package>
